@@ -1,0 +1,17 @@
+{
+  "name": "Sensei Labs",
+  "symbol": "SSL",
+  "description": "Sensei Labs is a Web-3 model software company building practical tools with a focus on transparency and trust while also developing immersive art and branding. Tools include a treasury transparency manager, smart-vaults, and the already shown pre-sale interface.",
+  "seller_fee_basis_points": 0,
+  "image": "",
+  "properties": {
+    "files": [{ "type": "image/png", "uri": "https://raw.githubusercontent.com/zkRemda/metadata/main/oss/logo.png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "28uNjjQfL4f1NzHgpVsA8XeBckdDDD58qneUs3bGGbN8",
+        "share": 100
+      }
+    ]
+  }
+}
